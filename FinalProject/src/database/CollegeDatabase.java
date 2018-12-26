@@ -12,7 +12,7 @@ public class CollegeDatabase implements Database{
 
 	private Person[] 		entry;
 	private int 			size;
-	public static final int DEFAULT_SIZE = 20;
+	public static final int DEFAULT_SIZE = 30;
 	public static final int NOT_FOUND = -1;
 	
 	
